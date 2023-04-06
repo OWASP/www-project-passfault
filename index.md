@@ -3,16 +3,12 @@
 layout: col-sidebar
 title: OWASP Passfault
 tags: example-tag
-level: 0
+level: 2
 type: tool
-
-auto-migrated: 1
-auto-migrated: 1
-
-auto-migrated: 1
 
 ---
 
+<span class='alert'>This project has been archived.</span>
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
